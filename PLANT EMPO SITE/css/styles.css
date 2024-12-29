@@ -1,0 +1,928 @@
+body{
+    background-color: white;
+    margin:0px;
+    
+}
+
+.firstmenus{
+    width:45%;
+    position:static;
+    vertical-align: top;
+    display:inline-table;
+
+}
+
+
+.carryall{
+    background:black;
+    position:fixed;
+    padding:3px;
+    z-index: 15;
+    width:100%;
+    border-bottom-color: rgb(205, 205, 22);
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    
+}
+.logo{
+    width:4%;
+    overflow:hidden;
+    border-radius: 400px;
+    background-color: black;
+    position:absolute;
+    margin-left:35px;
+    vertical-align:top;
+    display:inline-table;
+    cursor:pointer;
+    
+   
+}
+
+.logo img{
+    width:100%;
+}
+
+.companyname{
+    vertical-align: top;
+    display: inline-table;
+    width:30%;
+    margin-top:37px;
+    position:static;
+    z-index:5;
+    color:white;
+    cursor:pointer;
+    margin-left:95px;
+    
+
+}
+
+.companyname a{
+    text-decoration: none;
+    color:white;
+}
+
+.ndimenu{
+    width:50%;
+    vertical-align: top;
+    display: inline-table;
+    position:static;
+    margin-top:25px;
+    cursor: pointer;
+    right: 10px;
+    text-align: right;
+   
+}
+
+.menus{
+    vertical-align: top;
+    display: inline-table;
+    color:white;
+    margin-left:50px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.menus a{
+    color:white;
+    text-decoration: none;
+}
+.plant{
+    font-size:22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(227, 225, 225);
+    
+    
+}
+
+.empower{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(184, 183, 183);
+    position:absolute;
+    margin-top:21px;
+    background-color:black;
+}
+
+.develop{
+    font-size:11px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(163, 163, 3);
+    position:absolute;
+    margin-top:13px;
+    background-color: black;
+    padding-bottom:3px;
+}
+
+.develop a{
+    text-decoration: none;
+    color:rgb(163, 163, 3);
+}
+.theteam{
+    width:100%;
+    overflow:hidden;
+    position:static;
+    height: 700px;
+    padding-top:80px;
+}
+
+.theteam img{
+    width:100%;
+}
+
+.welcome{
+    position:absolute;
+    margin-top:277px;
+    margin-left:70px;
+    font-size:20px;
+    width:60%;
+    text-align:left;
+    font-weight:bold;
+    z-index: 5;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.welcomehere{
+    font-size:35px;
+    color: rgb(187, 187, 29);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 3px 3px 3px black;
+    width:70%;
+}
+
+.writeups{
+    margin-top:30px;
+    margin-left:30px;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18px;
+    text-align: justify;
+    width:95%;
+}
+
+.aboutwe{
+    margin-top:30px;
+    margin-left:30px;
+    width:95%;
+   
+}
+
+.us{
+    border-left-width: 7px;
+    border-left-style: solid;
+    border-left-color:blue;
+    font-size:23px;
+    padding-left:5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:8px;
+}
+
+.whoweare{
+   margin-top:20px;
+   line-height: 35px;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:18px;
+}
+
+.mission{
+    margin-top:45px;
+    width:55%;
+    margin-left:250px;
+    border-style:solid;
+    border-width: thin;
+    border-color:rgb(97, 97, 97);
+    box-shadow: 5px 5px 10px rgb(51, 50, 50);
+    color:black;
+    text-align:center;
+    font-size:18px;
+    padding-bottom:30px;
+    
+
+}
+
+.toempowese{
+    margin-top:20px;
+    line-height: 35px;
+    font-size:20px;
+
+}
+
+
+
+.our{
+    margin-top:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:35px;
+    font-weight:bold;
+    font-size:23px;
+    text-align: center;
+}
+
+
+.topic{
+    font-size:24px;
+    font-family: Arial, Helvetica, sans-serif;
+   margin-top:20px;
+}
+
+.catalyst{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.ourservsdcsd{
+    margin-top:40px;
+    margin-left:30px;
+    padding:8px;
+    font-size:25px;
+    border-left-color:blue;
+    border-left-style:solid;
+    border-left-width: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.whatsapplogo{
+    margin-top:600px;
+    position:fixed;
+    width:3%;
+    background-color: rgb(7, 228, 66);
+    padding:15px;
+    margin-left:1200px;
+    overflow:hidden;
+    border-radius: 400px;
+    z-index:15;
+}
+
+.whatsapplogo img{
+width:100%;
+}
+
+
+.empowermentloan{
+    vertical-align: top;
+    display: inline-table;
+    width:32%;
+    margin-top:37px;
+    margin-left:30px;
+    background-color:rgb(107, 102, 102);
+    color:white;
+}
+
+.empowermentloan img{
+    width:100%;
+}
+
+.schaolrship{
+    vertical-align: top;
+    display: inline-table;
+    width:33%;
+    margin-top:37px;
+    margin-left:15px;
+    background-color:rgb(107, 102, 102);
+    color:white;
+    
+}
+
+.schaolrship img{
+    width:100%;
+}
+
+.realestate{
+    vertical-align: top;
+    display: inline-table;
+    width:29%;
+    margin-top:37px;
+    margin-left:15px;
+    background-color:rgb(107, 102, 102);
+    color:white;
+}
+
+.realestate img{
+    width:100%;
+}
+
+.loan{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 3px 3px 10px red;
+}
+
+.access{
+    margin-top:15px;
+    margin-left:20px;
+    font-size:17px;
+    line-height: 25px;
+    width:90%;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.whysus{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:17px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.here{
+    margin-top:20px;
+    margin-left:55px;
+    font-size:17px;
+    font-family:Arial, Helvetica, sans-serif;
+    width:50%;
+    line-height:35px;
+}
+
+.scholarshipprogram{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 3px 10px red;
+}
+
+.investsfd{
+    margin-top:15px;
+    margin-left:20px;
+    line-height:30px;
+    font-size:17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:90%;
+}
+
+.eligblead{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.herearethere{
+    margin-top:15px;
+    margin-left:50px;
+    font-size:17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:90%;
+    line-height:37px;
+}
+
+.realestateagency{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 3px 10px red;
+}
+
+.realwe{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:17px;
+    line-height:28px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:90%;
+}
+
+.servsifdsf{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.propertdg{
+    margin-top:20px;
+    margin-left:50px;
+    font-size:17px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 35px;
+}
+
+.solarinverter{
+    margin-top:30px;
+    vertical-align: top;
+    display: inline-table;
+    width:44.3%;
+    margin-left:30px;
+    background-color:rgb(107, 102, 102);
+    color:white;
+}
+
+.solarinverter img{
+    width:100%;
+}
+
+.computerbusines{
+    margin-top:30px;
+    vertical-align: top;
+    display: inline-table;
+    width:50.6%;
+    margin-left:15px;
+    background-color:rgb(107, 102, 102);
+    color:white;
+}
+
+.computerbusines img{
+    width: 100%;
+}
+
+.solarec{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 3px 10px red;
+}
+
+.swtich{
+    margin-left:20px;
+    margin-top:20px;
+    line-height:30px;
+    font-size:17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:90%;
+
+}
+
+.benefitsdsf{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:17px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.reliabe{
+    margin-top:20px;
+    margin-left:50px;
+    font-size:17px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:35px;
+}
+
+.bizce{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 3px 10px red;
+    text-transform: uppercase;
+}
+
+.stay{
+    margin-left:20px;
+    margin-top:20px;
+    line-height:30px;
+    font-size:17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:93%;
+}
+
+.available{
+    margin-top:20px;
+    margin-left:20px;
+    font-size:17px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.theyare{
+    margin-top:20px;
+    margin-left:50px;
+    font-size:17px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:35px;
+}
+
+.coverusdfdf{
+    position:static;
+}
+
+.whychooseusddfs{
+    position:absolute;
+}
+
+
+.piccover{
+    width:100%;
+    margin-top:80px;
+}
+
+.piccover img{
+    width:100%;
+}
+
+.whychooseus{
+    padding-top:120px;
+    font-size:50px;
+    margin-left:60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+.awewew{
+    margin-left:67px;
+    margin-top:50px;
+    line-height:30px;
+    font-size:24px;
+    width:70%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.awewewdfs{
+    margin-left:67px;
+    margin-top:50px;
+    line-height:25px;
+    font-size:24px;
+    width:70%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.awewewerw{
+    margin-left:67px;
+    margin-top:70px;
+    line-height:25px;
+    font-size:24px;
+    width:70%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.footer{
+    background-color: rgb(64, 63, 63);
+    margin-top:40px;
+}
+
+.aboutanyi{
+    margin-top:50px;
+    margin-left:50px;
+    width:37%;
+    color:rgb(222, 219, 219);
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: top;
+    display: inline-table;
+}
+
+.plantemposd{
+    margin-top:20px;
+    color:rgb(179, 176, 176);
+    line-height: 30px;
+    font-size:15px;
+
+}
+
+.contactmeee{
+    margin-top:50px;
+    margin-left:230px;
+    width:40%;
+    vertical-align: top;
+    display: inline-table;
+}
+
+.kpomeee{
+    color:white;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.weare{
+    margin-top:20px;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(179, 176, 176);
+    line-height: 30px;
+}
+
+
+.address{
+    margin-top:20px;
+    width:93%;
+    color:rgb(179, 176, 176);
+    line-height:25px;
+
+}
+
+.phone{
+    margin-top:20px;
+    color:rgb(179, 176, 176);
+}
+
+.email{
+    margin-top:20px;
+    color:rgb(179, 176, 176);
+}
+
+.whatsapp{
+    margin-top:20px;
+    color:rgb(179, 176, 176);
+}
+
+.copyrightsds{
+    margin-top:70px;
+    border-top-width: thin;
+    border-top-style: solid;
+    border-top-color:rgb(120, 119, 119);
+    padding-top:30px;
+    padding:30px;
+    text-align: center;
+    line-height: 25px;
+}
+.ourvission2{
+    display: none;
+}
+.ourvission{
+    position:absolute;
+    margin-top:640px;
+    padding:15px;
+    margin-left:600px;
+    color:black;
+    font-weight: bold;
+    border-width: 3px;
+    border-style: solid;
+    border-color: blue;
+    background-color: skyblue;
+    padding-bottom:25px;
+    filter: opacity(75%);
+    line-height: 30px;
+    border-radius:10px;
+}
+
+
+
+.hwotsassa{
+    bottom: 10px;
+    right: 10px;
+}
+
+.hwotsassa img{
+    width:100%;
+}
+.openMobile{
+    display: none;
+}
+
+.closeMobile{
+    display: none;
+}
+.mobileMenu{
+    display: none;
+}
+.whychooseusddfs2{
+    display: none;
+}
+.piccover2{
+    display: none;
+    width: 85%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 820px){
+    .logo{
+        width: 10%;
+        left: 6px;
+        top: 40px;
+    }
+    .firstmenus{
+        width: auto;
+        margin-right: 0px;
+        padding-right: 0px;
+    }
+    .empower{
+        width: auto;
+       
+    }
+    .companyname{
+        width: 80%;
+    }
+    .companyname{
+        margin-top: 70px;
+       
+    }
+    .ndimenu{
+        display: none;
+    }
+    .openMobile{
+        display: block;
+        z-index: 5;
+        float: right;
+        right: 10px;
+        cursor: pointer;
+    }
+    .openMobile img{
+        width: 70%;
+    }
+
+
+    .closeMobile{
+        display: none;
+        z-index: 5;
+        float: right;
+        right: 10px;
+        cursor: pointer;
+    }
+    .closeMobile img{
+        width: 70%;
+    }
+    .mobileMenu{
+        background-color: black;
+        opacity: 0.8;
+        width: 100%;
+        display: none;
+        width: 100%;
+        position: fixed;
+        z-index: 7;
+        height: 100vh;
+        margin-top: 20px;
+        padding-top: 55px;
+    }
+    .mobTab{
+        width: 95%;
+        margin: 0 auto;
+        padding: 15px;
+        color: white;
+        text-align: right;
+        padding-top: 30px;
+    }
+    .mobTab a{
+        color: rgb(238, 255, 4);
+        font-size: 24px;
+        text-transform: uppercase;
+        padding-top: 30px;
+        text-decoration: none;
+        font-family: sans-serif;
+        padding: 15px;
+    }
+    .writeups{
+        position: static;
+        width: 90%;
+    }
+    .ourvission{
+        display: none;
+    }
+    .ourvission2{
+        position: static;
+        display: block;
+        width: 85%;
+        margin: 0 auto;
+        background-color: skyblue;
+        border-radius: 10px;
+        overflow: hidden;
+        padding: 20px;
+        margin-top: -180px;
+        line-height: 1.9;
+        z-index: 16;
+    }
+
+    .welcome{
+        margin-top:420px;
+        width:85%;
+        color:white;
+        text-shadow: 5px 5px 3px blue;
+    }
+    .topic{
+        font-weight: bold;
+        margin-top: 3px;
+    }
+    .writeups{
+        width: 85%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .aboutwe{
+        margin-top: 100px;
+    }
+    .mission{
+        width: 85%;
+        position: static;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .ourservsdcsd{
+        margin-top: 100px;
+    }
+    .empowermentloan{
+        width: 90%;
+        margin: 0 auto;
+        position: static;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .schaolrship{
+        width: 90%;
+        margin: 0 auto;
+        position: static;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .realestate{
+        width: 90%;
+        margin: 0 auto;
+        position: static;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .solarinverter{
+        width: 90%;
+        margin: 0 auto;
+        position: static;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .computerbusines{
+        width: 90%;
+        margin: 0 auto;
+        position: static;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .whychooseusddfs{
+        display: none;
+    }
+    .whychooseusddfs2{
+        display: block;
+    }
+    .piccover2{
+        display: block;
+    }
+    .piccover2 img{
+        width: 100%;
+    }
+    .aboutanyi{
+        width: 85%;
+    }
+    .contactmeee{
+        width: 85%;
+        position: static;
+        margin: 0 auto;
+        margin-left: 40px;
+    }
+    .whatsapplogo{
+        bottom: 30px;
+        right: 10px;
+        display: block;
+        position: fixed;
+        width: 10%;
+    }
+    .whatsapplogo img{
+        width: 100%;
+    }
+
+.welcomehere{
+    font-size:30px;
+    
+}
+}
